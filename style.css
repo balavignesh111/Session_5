@@ -114,8 +114,12 @@ header{
   width: 100%;
 }
 /* workspace starts here */
+.wkspc{
+  background-color: rgb(230, 252, 255);
+}
 .workspace{
   margin: 5% 10%;
+  padding: 5% 0%;
 }
 .productive{
   width: 52%;
@@ -143,15 +147,14 @@ header{
 }
 .wp_cnt1{
   padding: 3% 3%;
-  
 }
 .border_style{
   border-left: 7px solid rgb(0, 199, 229);
-  box-shadow: 0px 5px 20px #eeeded,
-  5px 0px 20px #eeeded,
-  0px -5px 20px #eeeded,
-  -5px 0px 20px #eeeded;
-  
+  box-shadow: 0px 5px 20px #fdfdfd,
+  5px 0px 20px #fdfdfd,
+  0px -5px 20px #eeeded;
+  background-color: white;
+  border-radius: 5px;
 }
 .workspace_img{
   width: 65%;
