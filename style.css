@@ -212,12 +212,55 @@ header{
 .wk_foot a:hover{
   background-color: rgb(165, 200, 204);
 }
-/* .wf_icon{
-  width: 10%;
-  height: 2%;
-  border-radius: 100%;
-  background-color: rgb(244, 245, 247);
-} */
 .wf_icon{
-  
+  margin-bottom: 10px;
+  padding: 0px 10px 0px;
+  margin-left: 85%;
+}
+.trello_tools{
+  background-color: rgb(0, 184, 217);
+}
+.work{
+  padding: 30px 20px;
+  color: white;
+  text-align: center;
+}
+.work h2{
+  font-size: 2.25rem;
+}
+.work p{
+  font-size: 20px;
+}
+.work button{
+  width: 220px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid white;
+  font-size: 16px;
+  background-color: white;
+}
+.work_img{
+  width: 75%;
+  margin: 0% auto;
+  padding: 3%;
+  background-color: white;
+  border-radius: 10px;
+}
+.work_images{
+  width: 55%;
+}
+.work_images img{
+  width: 100%;
+}
+.work_content{
+  width: 36%;
+  margin: 0% auto;
+}
+.work_content p{
+  font-size: 20px;
+  line-height: 27px;
+}
+.work_content a{
+  color: rgb(0, 82, 204);
+  font-size: 20px;
 }
