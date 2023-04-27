@@ -264,3 +264,37 @@ header{
   color: rgb(0, 82, 204);
   font-size: 20px;
 }
+.trello_features{
+  padding: 100px 120px;
+}
+.trello_ftr:first-child{
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 0px;
+}
+.trello_ftr h2{
+  font-size: 32px;
+  font-weight: 800;
+  margin-top: 0px;
+}
+.trello_para{
+  font-size: 20px;
+}
+.trello_cont{
+  width: 25%;
+  padding: 15px 15px;
+  background-color: rgb(250, 251, 252);
+  margin: 10px 50px 10px 0px;
+  border-radius: 5px;
+}
+.trello_cont button{
+  width: 180px;
+  height: 50px;
+  font-size: 16px;
+  background-color: white;
+  border: 1px solid rgb(0, 82, 204);
+  border-radius: 5px;
+}
+.trello_cont button:hover{
+  background-color: rgb(197, 237, 244);
+}
